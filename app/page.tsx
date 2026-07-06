@@ -1102,22 +1102,22 @@ export default function PortfolioHome() {
             {/* Timeline Item 1 — DevHawks */}
             <div className="relative pl-8 md:pl-10 border-l-2 border-ink/20 pb-10 last:pb-0 group">
               <div className="absolute -left-[5px] top-7 w-3 h-3 bg-emerald rounded-full ring-4 ring-emerald/20 group-hover:bg-emerald group-hover:ring-emerald/30 transition-all duration-300"></div>
-              <div className="bg-white hover:bg-white/80 border border-ink/5 rounded-xl p-6 transition-all duration-300">
+              <div className="bg-pine hover:bg-pine/90 border border-white/10 rounded-xl p-6 transition-all duration-300 text-white">
                 <div className="flex justify-between items-center mb-3">
-                  <span className="inline-block px-2.5 py-1 bg-emerald/10 text-emerald text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
+                  <span className="inline-block px-2.5 py-1 bg-white/10 text-white text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
                     INTERNSHIP
                   </span>
-                  <span className="text-sm md:text-base text-ink/60 font-sans font-semibold">
+                  <span className="text-sm md:text-base text-white/70 font-sans font-semibold">
                     Jul 2026
                   </span>
                 </div>
                 <div className="text-sm md:text-base font-sans text-emerald font-bold tracking-wider mb-1">
                   DEVHAWKS (PRIVATE) LIMITED
                 </div>
-                <h4 className="font-display font-semibold text-xl md:text-2xl text-pine mb-3">
+                <h4 className="font-display font-semibold text-xl md:text-2xl text-white mb-3">
                   Junior Mobile Application Engineer
                 </h4>
-                <p className="text-base md:text-lg text-ink/70 leading-relaxed">
+                <p className="text-base md:text-lg text-white/80 leading-relaxed">
                   Selected to design, develop, and test features for cross-platform mobile applications during an 8-week engineering internship.
                 </p>
               </div>
@@ -1126,22 +1126,22 @@ export default function PortfolioHome() {
             {/* Timeline Item 2 — Safex Solutions */}
             <div className="relative pl-8 md:pl-10 border-l-2 border-ink/20 pb-10 last:pb-0 group">
               <div className="absolute -left-[5px] top-7 w-3 h-3 bg-emerald/70 group-hover:bg-emerald rounded-full ring-4 ring-emerald/20 group-hover:ring-emerald/30 transition-all duration-300"></div>
-              <div className="bg-pine hover:bg-pine/90 border border-white/10 rounded-xl p-6 transition-all duration-300 text-white">
+              <div className="bg-white hover:bg-white/80 border border-ink/5 rounded-xl p-6 transition-all duration-300">
                 <div className="flex justify-between items-center mb-3">
-                  <span className="inline-block px-2.5 py-1 bg-white/10 text-white text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
+                  <span className="inline-block px-2.5 py-1 bg-emerald/10 text-emerald text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
                     INTERNSHIP
                   </span>
-                  <span className="text-sm md:text-base text-white/70 font-sans font-semibold">
+                  <span className="text-sm md:text-base text-ink/60 font-sans font-semibold">
                     Jun 2026
                   </span>
                 </div>
                 <div className="text-sm md:text-base font-sans text-emerald font-bold tracking-wider mb-1">
                   SAFEX SOLUTIONS
                 </div>
-                <h4 className="font-display font-semibold text-xl md:text-2xl text-white mb-3">
+                <h4 className="font-display font-semibold text-xl md:text-2xl text-pine mb-3">
                   Website Development Intern
                 </h4>
-                <p className="text-base md:text-lg text-white/80 leading-relaxed">
+                <p className="text-base md:text-lg text-ink/70 leading-relaxed">
                   Contributing to live web development projects, gaining hands-on industry experience with modern web technologies in a hybrid work environment.
                 </p>
               </div>
@@ -1150,22 +1150,22 @@ export default function PortfolioHome() {
             {/* Timeline Item 3 — FlyRank AI */}
             <div className="relative pl-8 md:pl-10 border-l-2 border-ink/20 pb-10 last:pb-0 group">
               <div className="absolute -left-[5px] top-7 w-3 h-3 bg-emerald/50 group-hover:bg-emerald rounded-full ring-4 ring-emerald/20 group-hover:ring-emerald/30 transition-all duration-300"></div>
-              <div className="bg-white hover:bg-white/80 border border-ink/5 rounded-xl p-6 transition-all duration-300">
+              <div className="bg-pine hover:bg-pine/90 border border-white/10 rounded-xl p-6 transition-all duration-300 text-white">
                 <div className="flex justify-between items-center mb-3">
-                  <span className="inline-block px-2.5 py-1 bg-emerald/10 text-emerald text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
+                  <span className="inline-block px-2.5 py-1 bg-white/10 text-white text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
                     INTERNSHIP
                   </span>
-                  <span className="text-sm md:text-base text-ink/60 font-sans font-semibold">
+                  <span className="text-sm md:text-base text-white/70 font-sans font-semibold">
                     Jul 2025
                   </span>
                 </div>
                 <div className="text-sm md:text-base font-sans text-emerald font-bold tracking-wider mb-1">
                   FLYRANK AI
                 </div>
-                <h4 className="font-display font-semibold text-xl md:text-2xl text-pine mb-3">
+                <h4 className="font-display font-semibold text-xl md:text-2xl text-white mb-3">
                   Backend AI Engineering
                 </h4>
-                <p className="text-base md:text-lg text-ink/70 leading-relaxed">
+                <p className="text-base md:text-lg text-white/80 leading-relaxed">
                   Selected for the Backend AI Engineering track, focused on backend systems supporting AI-driven products.
                 </p>
               </div>
@@ -1174,22 +1174,22 @@ export default function PortfolioHome() {
             {/* Timeline Item 4 — AlKhidmat Foundation */}
             <div className="relative pl-8 md:pl-10 border-l-2 border-ink/20 pb-10 last:pb-0 group">
               <div className="absolute -left-[5px] top-7 w-3 h-3 bg-ochre/70 group-hover:bg-ochre rounded-full ring-4 ring-ochre/20 group-hover:ring-ochre/30 transition-all duration-300"></div>
-              <div className="bg-pine hover:bg-pine/90 border border-white/10 rounded-xl p-6 transition-all duration-300 text-white">
+              <div className="bg-white hover:bg-white/80 border border-ink/5 rounded-xl p-6 transition-all duration-300">
                 <div className="flex justify-between items-center mb-3">
-                  <span className="inline-block px-2.5 py-1 bg-ochre/20 text-ochre text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
+                  <span className="inline-block px-2.5 py-1 bg-ochre/10 text-ochre text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
                     COMMUNITY
                   </span>
-                  <span className="text-sm md:text-base text-white/70 font-sans font-semibold">
+                  <span className="text-sm md:text-base text-ink/60 font-sans font-semibold">
                     2026
                   </span>
                 </div>
                 <div className="text-sm md:text-base font-sans text-emerald font-bold tracking-wider mb-1">
                   ALKHIDMAT FOUNDATION PAKISTAN
                 </div>
-                <h4 className="font-display font-semibold text-xl md:text-2xl text-white mb-3">
+                <h4 className="font-display font-semibold text-xl md:text-2xl text-pine mb-3">
                   Social Internship Program Participant
                 </h4>
-                <p className="text-base md:text-lg text-white/80 leading-relaxed">
+                <p className="text-base md:text-lg text-ink/70 leading-relaxed">
                   Participated in a 6-week hybrid social internship involving learning sessions, community engagement activities, and project-based participation.
                 </p>
               </div>
@@ -1198,22 +1198,22 @@ export default function PortfolioHome() {
             {/* Timeline Item 5 — SPS */}
             <div className="relative pl-8 md:pl-10 border-l-2 border-ink/20 pb-10 last:pb-0 group">
               <div className="absolute -left-[5px] top-7 w-3 h-3 bg-emerald rounded-full ring-4 ring-emerald/20 group-hover:bg-emerald group-hover:ring-emerald/30 transition-all duration-300"></div>
-              <div className="bg-white hover:bg-white/80 border border-ink/5 rounded-xl p-6 transition-all duration-300">
+              <div className="bg-pine hover:bg-pine/90 border border-white/10 rounded-xl p-6 transition-all duration-300 text-white">
                 <div className="flex justify-between items-center mb-3">
-                  <span className="inline-block px-2.5 py-1 bg-emerald/10 text-emerald text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
+                  <span className="inline-block px-2.5 py-1 bg-white/10 text-white text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
                     INTERNSHIP
                   </span>
-                  <span className="text-sm md:text-base text-ink/60 font-sans font-semibold">
+                  <span className="text-sm md:text-base text-white/70 font-sans font-semibold">
                     2025
                   </span>
                 </div>
                 <div className="text-sm md:text-base font-sans text-emerald font-bold tracking-wider mb-1">
                   SOFTWARE SOLUTIONS (SPS)
                 </div>
-                <h4 className="font-display font-semibold text-xl md:text-2xl text-pine mb-3">
+                <h4 className="font-display font-semibold text-xl md:text-2xl text-white mb-3">
                   AI Engineering Intern
                 </h4>
-                <p className="text-base md:text-lg text-ink/70 leading-relaxed">
+                <p className="text-base md:text-lg text-white/80 leading-relaxed">
                   Contributed Flutter UI integrations and client REST APIs to a live client application within an active Agile sprint cycle. Researched and prototyped on-device, localized computer vision pipelines using TensorFlow Lite (TFLite) to cache inference calculations.
                 </p>
               </div>
@@ -1223,22 +1223,22 @@ export default function PortfolioHome() {
             <div className="relative pl-8 md:pl-10 border-l-2 border-ink/20 pb-10 last:pb-0 group">
               <div className="absolute -left-[5px] top-7 w-3 h-3 bg-emerald/70 group-hover:bg-emerald rounded-full ring-4 ring-emerald/20 group-hover:ring-emerald/30 transition-all duration-300"></div>
 
-              <div className="bg-pine hover:bg-pine/90 border border-white/10 rounded-xl p-6 transition-all duration-300 text-white">
+              <div className="bg-white hover:bg-white/80 border border-ink/5 rounded-xl p-6 transition-all duration-300">
                 <div className="flex justify-between items-center mb-3">
-                  <span className="inline-block px-2.5 py-1 bg-white/10 text-white text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
+                  <span className="inline-block px-2.5 py-1 bg-ochre/10 text-ochre text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
                     LEADERSHIP
                   </span>
-                  <span className="text-sm md:text-base text-white/70 font-sans font-semibold">
+                  <span className="text-sm md:text-base text-ink/60 font-sans font-semibold">
                     2025 - Present
                   </span>
                 </div>
                 <div className="text-sm md:text-base font-sans text-ochre font-bold tracking-wider mb-1">
                   CREATIVE DYNAMIC SOCIETY (CDS)
                 </div>
-                <h4 className="font-display font-semibold text-xl md:text-2xl text-white mb-3">
+                <h4 className="font-display font-semibold text-xl md:text-2xl text-pine mb-3">
                   President
                 </h4>
-                <p className="text-base md:text-lg text-white/80 leading-relaxed">
+                <p className="text-base md:text-lg text-ink/70 leading-relaxed">
                   Elected to direct the leading creative tech society, managing a cross-functional team of 300+ members. Directed budgeting, sponsor acquisition, and logs for 5+ major campus events, establishing partnerships with regional software houses.
                 </p>
               </div>
@@ -1248,22 +1248,22 @@ export default function PortfolioHome() {
             <div className="relative pl-8 md:pl-10 border-l-2 border-ink/20 pb-10 last:pb-0 group">
               <div className="absolute -left-[5px] top-7 w-3 h-3 bg-emerald/40 group-hover:bg-emerald rounded-full ring-4 ring-emerald/20 group-hover:ring-emerald/30 transition-all duration-300"></div>
 
-              <div className="bg-white hover:bg-white/80 border border-ink/5 rounded-xl p-6 transition-all duration-300">
+              <div className="bg-pine hover:bg-pine/90 border border-white/10 rounded-xl p-6 transition-all duration-300 text-white">
                 <div className="flex justify-between items-center mb-3">
-                  <span className="inline-block px-2.5 py-1 bg-emerald/10 text-emerald text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
+                  <span className="inline-block px-2.5 py-1 bg-white/10 text-white text-[11px] font-sans font-bold uppercase tracking-widest rounded-full">
                     EDUCATION
                   </span>
-                  <span className="text-sm md:text-base text-ink/60 font-sans font-semibold">
+                  <span className="text-sm md:text-base text-white/70 font-sans font-semibold">
                     2023 - Present
                   </span>
                 </div>
                 <div className="text-sm md:text-base font-sans text-emerald font-bold tracking-wider mb-1">
                   COMSATS UNIVERSITY
                 </div>
-                <h4 className="font-display font-semibold text-xl md:text-2xl text-pine mb-3">
+                <h4 className="font-display font-semibold text-xl md:text-2xl text-white mb-3">
                   BS Computer Science (7th Sem)
                 </h4>
-                <p className="text-base md:text-lg text-ink/70 leading-relaxed">
+                <p className="text-base md:text-lg text-white/80 leading-relaxed">
                   Maintaining a Cumulative GPA of 3.5/4.0. Coursework includes Database Architectures, Operating Systems, Algorithm Analysis, and Artificial Intelligence.
                 </p>
               </div>
