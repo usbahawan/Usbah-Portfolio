@@ -21,9 +21,10 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Usbah Saleem — Cross-Platform Mobile & AI Engineer",
+  metadataBase: new URL("https://usbah-portfolio.vercel.app"),
+  title: "Usbah Saleem — Mobile App Developer (Flutter) & AI Integration Engineer",
   description:
-    "Portfolio of Usbah Saleem, a Cross-Platform & AI Engineer specializing in production-quality mobile apps and client-side AI architectures. BS CS student at COMSATS University Islamabad.",
+    "Mobile App Developer (Flutter) and Cross-Platform Engineer building production-grade Android and iOS applications with client-side AI integration.",
   keywords: [
     "Usbah Saleem",
     "Flutter Developer",
