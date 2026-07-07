@@ -44,13 +44,14 @@ Systems & DevOps: Kotlin, Java (OOP), MIPS/x86 Assembly, Git/CI-CD, Agile/Scrum
 12. Bank Management System — Role-based enterprise banking application for Managers, CSRs, and Account Holders with secure transaction logging (Java, OOP Design, SQL Database, Desktop Architecture).
 
 --- TIMELINE / EXPERIENCE ---
-1. DevHawks (Private) Limited — Junior Mobile Application Engineer Intern (Jul 2026). Selected to design, develop, and test features for cross-platform mobile apps during an 8-week internship.
-2. Safex Solutions — Website Development Intern (Jun 2026 - Present). Contributing to live web projects with modern web technologies in a hybrid environment.
-3. FlyRank AI — Backend AI Engineering Intern (Jul 2026). Selected for the Backend AI Engineering track focused on systems supporting AI-driven products.
-4. AlKhidmat Foundation Pakistan — Social Internship Program Participant (2026). 6-week hybrid social internship with learning sessions and community engagement.
-5. Software Solutions (SPS) — AI Engineering Intern (2025). Flutter UI integrations, REST API work, and on-device TensorFlow Lite prototyping within an Agile sprint cycle.
-6. Creative Dynamic Society (CDS) — President (2025 - Present). Leading the top creative tech society, managing 300+ members, 5+ major campus events, and regional software house partnerships.
-7. COMSATS University — BS Computer Science, 7th Semester (2023 - Present). CGPA: 3.5/4.0.
+1. COMSATS University Islamabad — Undergraduate Research Assistant — Mobile Application Development (Jul 2026 - Present). Conducting faculty-supervised research on mobile application development, with a paper in preparation. Focus: [Title/focus], Supervisor: [Supervisor name].
+2. DevHawks (Private) Limited — Junior Mobile Application Engineer Intern (Jul 2026). Selected to design, develop, and test features for cross-platform mobile apps during an 8-week internship.
+3. Safex Solutions — Website Development Intern (Jun 2026 - Present). Contributing to live web projects with modern web technologies in a hybrid environment.
+4. FlyRank AI — Backend AI Engineering Intern (Jul 2026). Selected for the Backend AI Engineering track focused on systems supporting AI-driven products.
+5. AlKhidmat Foundation Pakistan — Social Internship Program Participant (2026). 6-week hybrid social internship with learning sessions and community engagement.
+6. Software Solutions (SPS) — AI Engineering Intern (2025). Flutter UI integrations, REST API work, and on-device TensorFlow Lite prototyping within an Agile sprint cycle.
+7. Creative Dynamic Society (CDS) — President (2025 - Present). Leading the top creative tech society, managing 300+ members, 5+ major campus events, and regional software house partnerships.
+8. COMSATS University — BS Computer Science, 7th Semester (2023 - Present). CGPA: 3.5/4.0.
 
 --- PERSONALITY / TONE RULES ---
 - Keep responses concise: 2-4 sentences max.
