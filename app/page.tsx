@@ -173,7 +173,7 @@ export default function PortfolioHome() {
             <img
               src="/portrait.jpg?v=hd3"
               alt="Usbah Saleem"
-              className="w-full h-full object-cover object-[center_15%] transition-transform duration-1000 hover:scale-105"
+              className="w-full h-full object-cover transition-transform duration-1000 hover:scale-105"
             />
             {/* Subtle overlay */}
             <div className="absolute inset-0 bg-ink mix-blend-overlay opacity-20 pointer-events-none"></div>
